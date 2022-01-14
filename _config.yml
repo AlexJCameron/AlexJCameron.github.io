@@ -31,7 +31,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  AlexJCameron
 
 # Build settings
-theme: bay_jekyll_theme
+# theme: bay_jekyll_theme
+remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
 
