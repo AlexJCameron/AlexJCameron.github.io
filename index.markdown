@@ -14,5 +14,5 @@ I hail from the small town of Wangaratta in rural south-eastern Australia. I com
 </p>
 
 <p>
-In my spare time, I enjoy reading, spending time outdoors (hiking, rock climbing, surfing), and playing board games.
+In my spare time I enjoy reading, spending time outdoors (hiking, rock climbing, surfing), and playing board games.
 </p>
