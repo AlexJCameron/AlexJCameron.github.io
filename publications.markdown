@@ -13,7 +13,7 @@ For an up-to-date list of publications including citations, see the [ADS](https:
 <font face="Helvetica" font-size="12px" color="#5b5b5b">
 
 <p>
-<b>Alex J. Cameron</b>, Harley Katz, Callum Witten, Aayush Saxena, Nicolas Laporte, and Andrew J. Bunker; <b>2023</b>; <i>Nebular dominated galaxies in the early Universe with top-heavy stellar initial mass functions</i>; <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231102051C/abstract">2023arXiv231102051C</a>
+<b>Alex J. Cameron</b>, Harley Katz, Callum Witten, Aayush Saxena, Nicolas Laporte, and Andrew J. Bunker; <b>2023</b>; <i>Nebular dominated galaxies in the early Universe with top-heavy stellar initial mass functions</i>; <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.534..523C/abstract">2024MNRAS.534..523C</a>
 </p>
 
 <p>
