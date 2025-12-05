@@ -6,7 +6,7 @@ layout: default2
 
 ## In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
 
-In September 2024, a press release entitled [* In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars *](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/) accompanied the publication of my first-author paper outlining the extreme nebular emission observed in JWST/NIRSpec observations of a galaxy at a redshift of 5.9.
+In September 2024, a press release entitled [*In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars*](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/) accompanied the publication of my first-author paper outlining the extreme nebular emission observed in JWST/NIRSpec observations of a galaxy at a redshift of 5.9.
 
  * [***‘Weird’ Ancient Galaxy Discovered by James Webb Space Telescope*** (Newsweek)](https://www.newsweek.com/ancient-galaxy-james-webb-space-telescope-gas-stars-1959774)
 
