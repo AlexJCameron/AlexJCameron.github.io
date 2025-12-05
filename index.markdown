@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-My research interests are primarily in galaxy evolution.
-In particular, I use deep spectroscopy of galaxies to understand the properties of their stellar populations and interstellar medium, and how these shape that evolution.
-I am heavily involved with with James Webb Space Telescope (JWST) observations of high-redshift galaxies and am a member of the James Webb Space Telescope (JWST) JADES GTO program, the largest JWST galaxy evolution program to date.
+I am an observational astronomer interested in the processes that have shaped galaxy evolution across cosmic time.
+In particular, I use deep spectroscopy of galaxies to understand the properties of stellar populations and the interstellar medium in galaxies, and how these shape that evolution.
+I am heavily involved with with James Webb Space Telescope (JWST) observations of high-redshift galaxies and am a builder member of the James Webb Space Telescope (JWST) JADES GTO program, the largest JWST galaxy evolution program executed to date.
 I also have extensive experience using integral-field spectroscopy from ground-based observatories to study low-redshift galaxies in great detail.
 </p>
 
