@@ -14,7 +14,7 @@ I also have extensive experience using integral-field spectroscopy from ground-b
 
 <p>
 I hail from the small town of Wangaratta in rural south-eastern Australia. I completed my Ph.D. at the University of Melbourne in 2021 before moving to the University of Oxford where I was a postdoctoral research assistant from 2021 to 2025.
-I am now a DAWN Fellow in the Cosmic Dawn Center and the Niels Bohr Institute at the University of Copenhagen.
+I currently hold a DAWN Fellowship in the Cosmic Dawn Center and the Niels Bohr Institute at the University of Copenhagen.
 </p>
 
 <p>
