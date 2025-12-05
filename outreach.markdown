@@ -2,6 +2,23 @@
 layout: default2
 ---
 
+<font color="#ffffff">.</font>
+
+## In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
+
+In September 2024, a press release entitled [* In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars *](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/) accompanied the publication of my first-author paper outlining the extreme nebular emission observed in JWST/NIRSpec observations of a galaxy at a redshift of 5.9.
+
+ * [***‘Weird’ Ancient Galaxy Discovered by James Webb Space Telescope*** (Newsweek)](https://www.newsweek.com/ancient-galaxy-james-webb-space-telescope-gas-stars-1959774)
+
+<center>
+<figure>
+    <img src="Nebular_models.png" alt="Nebular emission" width="512" height="427">
+    <!-- <figcaption><i>Schematic depicting how the best-fitting model explains the peculiar spectrum as a stellar population powering extreme nebular emission. Credit: NASA, ESA, CSA, Leah Hustak (STScI)</i></figcaption> -->
+</figure>    
+</center>
+
+---
+
 ## The first data from JWST
 
 In Decemeber 2021, ahead of the historic launch of the James Webb Space Telescope, I sat down with my colleague Dr. Becky to chat about why JWST is going to be so revolutionary for my science, and why I'm so excited to get my hands on the data.
