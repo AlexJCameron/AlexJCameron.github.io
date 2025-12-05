@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am an Australian astronomer interested in using deep observations to understand the chemical evolution of galaxies. I am a member of JADES, a joint NIRCam + NIRSpec GTO program which is using the James Webb Space Telescope (JWST) to perform a large survey number of galaxies at high-redshift, providing unprecedented new insights into galaxy evolution in the early Universe. Additionally, I'm also interested in using integral-field spectroscopy from ground-based observatories to study inflows and outflows of gas in low-redshift galaxies.
+I am an Australian astronomer interested in using observations to understand the chemical evolution of galaxies. I am a member of the James Webb Space Telescope (JWST) JADES GTO program which is performing a large survey of galaxies at high-redshift, providing unprecedented new insights into galaxy evolution in the early Universe. Additionally, I'm also interested in using integral-field spectroscopy from ground-based observatories to study inflows and outflows of gas in low-redshift galaxies.
 </p>
 
 <p>
