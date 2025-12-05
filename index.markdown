@@ -13,9 +13,10 @@ I also have extensive experience using integral-field spectroscopy from ground-b
 </p>
 
 <p>
-I hail from the small town of Wangaratta in rural south-eastern Australia. I completed my Ph.D. at the University of Melbourne in 2021. Currently, I am a postdoctoral research assistant at the University of Oxford.
+I hail from the small town of Wangaratta in rural south-eastern Australia. I completed my Ph.D. at the University of Melbourne in 2021 before moving to the University of Oxford where I was a postdoctoral research assistant from 2021 to 2025.
+I am now a DAWN Fellow in the Cosmic Dawn Center and the Niels Bohr Institute at the University of Copenhagen.
 </p>
 
 <p>
-In my spare time I enjoy reading, spending time outdoors (hiking, rock climbing, surfing), and playing board games.
+In my spare time I enjoy reading, spending time outdoors, and playing board games.
 </p>
